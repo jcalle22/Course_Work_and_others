@@ -1,9 +1,6 @@
 
 
 // Assignment7.java, CSE205, Arizona State University 
-// Name: Jacob Allen
-// StudentID: 1221743861
-// Lecture time: 9:00 - 10:15 Tue Thurs
 // Description: This file runs SketchPane.java as an application
 import javafx.application.Application;
 import javafx.scene.Scene;
