@@ -1,7 +1,4 @@
 // SketchPane.java, CSE205, Arizona State University 
-// Name: Jacob Allen
-// StudentID: 1221743861
-// Lecture time: 9:00 - 10:15 Tue Thurs
 // Description: Creates, applies, and modifies all of the nodes and functionality of the SketchPane.
 
 import javafx.scene.layout.*;
