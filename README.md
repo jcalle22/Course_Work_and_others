@@ -9,3 +9,4 @@ Heap_Function_Project - This is a project completed for my Data Structures and A
 
 MazeSolver - This is a Java program that takes input from a user to create a maze made from various characters. Assignment11.java contains main, whereas MazeSolver initializes the maze and performs depth first search to navigate through the maze to find the destination
  
+RestaurantObjectCompare - This is a Java program that creates various "Restaurant" objects containing "Cuisine" objects. These objects are then compared and organized in various ways. Apologies for the lackluster description, this is the project I have the least recollection of
